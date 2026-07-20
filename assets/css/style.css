@@ -79,7 +79,7 @@ button:focus-visible {
 .site-header-inner {
   max-width: 1080px;
   margin: 0 auto;
-  padding: 1.1rem 1.5rem;
+  padding: 1.4rem 1.5rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -89,14 +89,14 @@ button:focus-visible {
 
 .site-brand {
   font-family: "Fraunces", Georgia, serif;
-  font-weight: 600;
-  font-size: 1.15rem;
+  font-weight: 700;
+  font-size: 1.4rem;
   letter-spacing: 0.01em;
   text-decoration: none;
-  color: var(--nav-text);
+  color: var(--ochre);
 }
 
-.site-brand:hover { color: var(--ochre); }
+.site-brand:hover { color: var(--green); }
 
 .site-nav {
   display: flex;
@@ -205,7 +205,7 @@ li { margin-bottom: 0.4rem; }
 
 .card-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  grid-template-columns: repeat(1, 1fr);
   gap: 1.1rem;
   margin: 2.25rem 0;
   padding: 0;
@@ -214,23 +214,33 @@ li { margin-bottom: 0.4rem; }
 
 .card-grid li { margin: 0; }
 
+/* Deliberate column counts (not auto-fill) so rows always divide evenly
+   across the grid's 6 cards — never an isolated single card. */
+@media (min-width: 640px) {
+  .card-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (min-width: 900px) {
+  .card-grid { grid-template-columns: repeat(3, 1fr); }
+}
+
 .card {
   display: block;
   border: 1px solid var(--card-border);
   border-radius: 12px;
-  padding: 1.3rem 1.4rem;
+  padding: 1.45rem 1.55rem;
   text-decoration: none;
   color: var(--card-text);
   background: var(--card-gradient);
   height: 100%;
   box-shadow: var(--card-shadow);
-  transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+  transition: transform 0.2s ease-out, border-color 0.2s ease-out, box-shadow 0.2s ease-out;
 }
 
 .card:hover {
   border-color: var(--ochre);
-  transform: translateY(-2px);
-  box-shadow: var(--card-shadow), 0 10px 22px rgba(0, 0, 0, 0.16);
+  transform: translateY(-3px);
+  box-shadow: var(--card-shadow), 0 12px 26px rgba(0, 0, 0, 0.18);
 }
 
 .card h3 {
@@ -415,9 +425,9 @@ li { margin-bottom: 0.4rem; }
 
 .site-footer-brand {
   font-family: "Fraunces", Georgia, serif;
-  font-weight: 600;
-  color: var(--text);
-  font-size: 1rem;
+  font-weight: 700;
+  color: var(--ochre);
+  font-size: 1.05rem;
 }
 
 .site-footer-repo { text-align: left; }

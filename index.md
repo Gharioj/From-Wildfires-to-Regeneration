@@ -21,7 +21,11 @@ The **GitHub repository remains the authoritative source** for every document pr
   </a></li>
   <li><a class="card" href="{{ '/publications/' | relative_url }}">
     <h3>Publications</h3>
-    <p>The Version 1.0 publication suite and the Founding Manuscript, in English and Italian.</p>
+    <p>The Version 1.0 publication suite, in English and Italian.</p>
+  </a></li>
+  <li><a class="card" href="{{ '/publications/en/founding-manuscript/' | relative_url }}">
+    <h3>Founding Manuscript</h3>
+    <p>The Framework's original conceptual foundation, retained as a permanent historical record.</p>
   </a></li>
   <li><a class="card" href="{{ '/governance/' | relative_url }}">
     <h3>Governance</h3>
@@ -30,6 +34,10 @@ The **GitHub repository remains the authoritative source** for every document pr
   <li><a class="card" href="{{ '/downloads/' | relative_url }}">
     <h3>Downloads</h3>
     <p>Original Word documents for every publication, organised for download.</p>
+  </a></li>
+  <li><a class="card" href="{{ '/about/' | relative_url }}">
+    <h3>About</h3>
+    <p>About this site and how it relates to the repository.</p>
   </a></li>
 </ul>
 
