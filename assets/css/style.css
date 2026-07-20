@@ -9,17 +9,17 @@
   --text: #ece8dd;
   --text-muted: #b3b8a8;
 
-  /* Navigation — a calm, muted olive-forest zone */
-  --nav-bg: #34392a;
+  /* Navigation — richer olive/moss, still calm rather than bright */
+  --nav-bg: #3c4530;
   --nav-text: #ece8dd;
 
-  /* Primary — forest green */
-  --green: #8fbf98;
-  --green-fill: #2f5d3a;
+  /* Tertiary — olive/moss green: section headings, links, buttons */
+  --green: #a3b573;
+  --green-fill: #47592e;
   --on-green: #ffffff;
 
-  /* Accent — earthy ochre / muted gold, reserved for hover & emphasis */
-  --ochre: #c9a24b;
+  /* Secondary — copper/muted ochre: hero title, active nav, key highlights */
+  --ochre: #dbb05a;
   --on-ochre: #241c0c;
 
   /* Cards — warm off-white, the one deliberately light surface */
@@ -160,7 +160,8 @@ button:focus-visible {
    introduction rather than a dense document header. */
 .site-main-inner > h1:first-child {
   margin-top: 1.5rem;
-  font-size: 2.6rem;
+  font-size: 3.1rem;
+  font-weight: 700;
 }
 
 .site-main-inner > .tagline:first-of-type {
@@ -175,18 +176,18 @@ h1, h2, h3, h4 {
   letter-spacing: -0.01em;
 }
 
-h1 { font-size: 2.35rem; margin: 0 0 0.6rem; color: var(--ochre); }
+h1 { font-size: 2.5rem; margin: 0 0 0.6rem; font-weight: 700; color: var(--ochre); }
 h2 {
   font-size: 1.55rem;
   margin-top: 2.75rem;
   margin-bottom: 0.9rem;
   padding-top: 0.25rem;
   border-top: 1px solid var(--border);
-  color: var(--ochre);
+  color: var(--green);
 }
 h2:first-child { border-top: none; padding-top: 0; margin-top: 0; }
 h3 { font-size: 1.2rem; margin-top: 2rem; margin-bottom: 0.6rem; }
-h4 { font-size: 1.02rem; margin-top: 1.5rem; margin-bottom: 0.5rem; color: var(--green); }
+h4 { font-size: 1.02rem; margin-top: 1.5rem; margin-bottom: 0.5rem; color: var(--text); }
 
 p { margin: 0 0 1.1rem; }
 ul, ol { margin: 0 0 1.1rem; padding-left: 1.4rem; }
@@ -415,13 +416,13 @@ li { margin-bottom: 0.4rem; }
 .site-footer-brand {
   font-family: "Fraunces", Georgia, serif;
   font-weight: 600;
-  color: var(--ochre);
+  color: var(--text);
   font-size: 1rem;
 }
 
 .site-footer-repo { text-align: left; }
-.site-footer-repo a { color: var(--ochre); font-weight: 600; text-decoration: none; }
-.site-footer-repo a:hover { color: var(--green); }
+.site-footer-repo a { color: var(--green); font-weight: 600; text-decoration: none; }
+.site-footer-repo a:hover { color: var(--ochre); }
 
 /* ---------- Downloads table ---------- */
 
@@ -473,5 +474,5 @@ li { margin-bottom: 0.4rem; }
   }
   .site-nav.is-open { display: flex; }
   .site-footer-inner { flex-direction: column; gap: 0.5rem; }
-  .site-main-inner > h1:first-child { font-size: 1.9rem; }
+  .site-main-inner > h1:first-child { font-size: 2.15rem; }
 }
