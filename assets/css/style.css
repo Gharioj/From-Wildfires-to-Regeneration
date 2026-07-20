@@ -1,35 +1,35 @@
 :root {
-  /* Dark charcoal/forest — primary identity */
-  --bg: #12160f;
-  --bg-alt: #1a2017;
-  --bg-elevated: #212a1e;
+  /* Deep charcoal / forest — the site's persistent backdrop */
+  --bg: #1f2421;
+  --bg-alt: #262c27;
+  --bg-footer: #141712;
+  --border: #363d33;
+
+  /* Body copy */
   --text: #ece8dd;
   --text-muted: #b3b8a8;
-  --border: #2c342a;
-  --accent-green: #7fa487;
-  --accent-green-strong: #9dc2a4;
-  --accent: #dda15e;
-  --accent-strong: #efc384;
-  --accent-on: #1c1409;
-  --shadow: 0 1px 2px rgba(0, 0, 0, 0.35), 0 8px 24px rgba(0, 0, 0, 0.25);
-  --max-width: 800px;
-}
 
-@media (prefers-color-scheme: light) {
-  :root {
-    --bg: #f5f1e6;
-    --bg-alt: #ece5d2;
-    --bg-elevated: #fffdf8;
-    --text: #20261d;
-    --text-muted: #5a6152;
-    --border: #ddd3ba;
-    --accent-green: #3f6647;
-    --accent-green-strong: #2c4a33;
-    --accent: #8a5a20;
-    --accent-strong: #6e4718;
-    --accent-on: #fffdf8;
-    --shadow: 0 1px 2px rgba(32, 26, 10, 0.06), 0 8px 24px rgba(32, 26, 10, 0.08);
-  }
+  /* Navigation — its own forest-green zone */
+  --nav-bg: #24432c;
+  --nav-text: #ece8dd;
+
+  /* Primary — forest green */
+  --green: #8fbf98;
+  --green-fill: #2f5d3a;
+  --on-green: #ffffff;
+
+  /* Accent — earthy ochre / muted gold, reserved for hover & emphasis */
+  --ochre: #c9a24b;
+  --on-ochre: #241c0c;
+
+  /* Cards — warm off-white, the one deliberately light surface */
+  --card-bg: #f4efe3;
+  --card-text: #262a22;
+  --card-text-muted: #5c5b4c;
+  --card-border: #e7dfc9;
+
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 10px 26px rgba(0, 0, 0, 0.28);
+  --max-width: 800px;
 }
 
 * { box-sizing: border-box; }
@@ -48,16 +48,16 @@ html, body {
 }
 
 ::selection {
-  background: var(--accent);
-  color: var(--accent-on);
+  background: var(--ochre);
+  color: var(--on-ochre);
 }
 
-a { color: var(--accent); text-underline-offset: 0.15em; }
-a:hover { color: var(--accent-strong); }
+a { color: var(--green); text-underline-offset: 0.15em; }
+a:hover { color: var(--ochre); }
 
 a:focus-visible,
 button:focus-visible {
-  outline: 2px solid var(--accent-green-strong);
+  outline: 2px solid var(--ochre);
   outline-offset: 3px;
   border-radius: 3px;
 }
@@ -65,9 +65,9 @@ button:focus-visible {
 /* ---------- Header / Navigation ---------- */
 
 .site-header {
-  border-bottom: 1px solid var(--border);
-  background: color-mix(in srgb, var(--bg) 92%, transparent);
-  backdrop-filter: saturate(140%) blur(6px);
+  background: var(--nav-bg);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  box-shadow: var(--shadow);
   position: sticky;
   top: 0;
   z-index: 10;
@@ -90,10 +90,10 @@ button:focus-visible {
   font-size: 1.15rem;
   letter-spacing: 0.01em;
   text-decoration: none;
-  color: var(--text);
+  color: var(--nav-text);
 }
 
-.site-brand:hover { color: var(--accent); }
+.site-brand:hover { color: var(--ochre); }
 
 .site-nav {
   display: flex;
@@ -103,18 +103,25 @@ button:focus-visible {
 
 .site-nav a {
   text-decoration: none;
-  color: var(--text-muted);
+  color: var(--nav-text);
+  opacity: 0.82;
   font-size: 0.95rem;
   font-weight: 600;
   letter-spacing: 0.01em;
-  padding: 0.25rem 0;
+  padding: 0.3rem 0.05rem;
   border-bottom: 2px solid transparent;
-  transition: color 0.15s ease, border-color 0.15s ease;
+  transition: color 0.15s ease, border-color 0.15s ease, opacity 0.15s ease;
 }
 
 .site-nav a:hover {
-  color: var(--text);
-  border-bottom-color: var(--accent-green);
+  color: var(--nav-text);
+  opacity: 1;
+  border-bottom-color: var(--ochre);
+}
+
+.site-nav a.is-active {
+  opacity: 1;
+  border-bottom-color: var(--ochre);
 }
 
 .nav-toggle {
@@ -128,12 +135,12 @@ button:focus-visible {
   border-radius: 6px;
 }
 
-.nav-toggle:hover { background: var(--bg-alt); }
+.nav-toggle:hover { background: rgba(255, 255, 255, 0.08); }
 
 .nav-toggle span {
   width: 22px;
   height: 2px;
-  background: var(--text);
+  background: var(--nav-text);
   display: block;
   border-radius: 2px;
 }
@@ -144,6 +151,17 @@ button:focus-visible {
   max-width: var(--max-width);
   margin: 0 auto;
   padding: 3rem 1.5rem 5rem;
+}
+
+/* Hero whitespace: the page's opening heading + tagline read as a calm
+   introduction rather than a dense document header. */
+.site-main-inner > h1:first-child {
+  margin-top: 1.5rem;
+  font-size: 2.6rem;
+}
+
+.site-main-inner > .tagline:first-of-type {
+  margin-bottom: 2.25rem;
 }
 
 h1, h2, h3, h4 {
@@ -164,7 +182,7 @@ h2 {
 }
 h2:first-child { border-top: none; padding-top: 0; margin-top: 0; }
 h3 { font-size: 1.2rem; margin-top: 2rem; margin-bottom: 0.6rem; }
-h4 { font-size: 1.02rem; margin-top: 1.5rem; margin-bottom: 0.5rem; color: var(--accent-green-strong); }
+h4 { font-size: 1.02rem; margin-top: 1.5rem; margin-bottom: 0.5rem; color: var(--green); }
 
 p { margin: 0 0 1.1rem; }
 ul, ol { margin: 0 0 1.1rem; padding-left: 1.4rem; }
@@ -193,30 +211,30 @@ li { margin-bottom: 0.4rem; }
 
 .card {
   display: block;
-  border: 1px solid var(--border);
+  border: 1px solid var(--card-border);
   border-radius: 12px;
   padding: 1.3rem 1.4rem;
   text-decoration: none;
-  color: var(--text);
-  background: var(--bg-alt);
+  color: var(--card-text);
+  background: var(--card-bg);
   height: 100%;
   box-shadow: var(--shadow);
   transition: transform 0.15s ease, border-color 0.15s ease;
 }
 
 .card:hover {
-  border-color: var(--accent-green);
+  border-color: var(--ochre);
   transform: translateY(-2px);
 }
 
 .card h3 {
   margin-top: 0;
-  color: var(--text);
+  color: var(--card-text);
   font-size: 1.1rem;
 }
 
 .card p {
-  color: var(--text-muted);
+  color: var(--card-text-muted);
   margin-bottom: 0;
   font-size: 0.94rem;
 }
@@ -233,9 +251,9 @@ li { margin-bottom: 0.4rem; }
 }
 
 .doc-list li {
-  border: 1px solid var(--border);
+  border: 1px solid var(--card-border);
   border-radius: 12px;
-  background: var(--bg-alt);
+  background: var(--card-bg);
   padding: 1.1rem 1.3rem;
   margin: 0;
   box-shadow: var(--shadow);
@@ -243,7 +261,7 @@ li { margin-bottom: 0.4rem; }
 }
 
 .doc-list li:hover {
-  border-color: var(--accent-green);
+  border-color: var(--ochre);
   transform: translateY(-1px);
 }
 
@@ -251,15 +269,15 @@ li { margin-bottom: 0.4rem; }
   font-weight: 600;
   text-decoration: none;
   font-size: 1.08rem;
-  color: var(--text);
+  color: var(--card-text);
   font-family: "Fraunces", Georgia, serif;
 }
 
-.doc-list .doc-title:hover { color: var(--accent); }
+.doc-list .doc-title:hover { color: var(--green-fill); }
 
 .doc-list p {
   margin: 0.4rem 0 0;
-  color: var(--text-muted);
+  color: var(--card-text-muted);
   font-size: 0.93rem;
 }
 
@@ -267,6 +285,9 @@ li { margin-bottom: 0.4rem; }
   margin-top: 0.7rem;
   font-size: 0.88rem;
 }
+
+.doc-list .doc-links a { color: var(--green-fill); }
+.doc-list .doc-links a:hover { color: var(--on-ochre); }
 
 /* ---------- Document pages ---------- */
 
@@ -276,32 +297,32 @@ li { margin-bottom: 0.4rem; }
   font-size: 0.9rem;
 }
 
-.doc-breadcrumb a:hover { color: var(--accent); }
+.doc-breadcrumb a:hover { color: var(--ochre); }
 
 .doc-summary {
   color: var(--text-muted);
   font-size: 1.08rem;
-  border-left: 3px solid var(--accent-green);
+  border-left: 3px solid var(--green);
   padding: 0.2rem 0 0.2rem 1rem;
   font-style: italic;
 }
 
 .button {
   display: inline-block;
-  background: var(--accent);
-  color: var(--accent-on);
+  background: var(--green-fill);
+  color: var(--on-green);
   padding: 0.6rem 1.25rem;
   border-radius: 8px;
   text-decoration: none;
   font-size: 0.92rem;
   font-weight: 700;
   box-shadow: var(--shadow);
-  transition: background 0.15s ease, transform 0.15s ease;
+  transition: background 0.15s ease, color 0.15s ease, transform 0.15s ease;
 }
 
 .button:hover {
-  background: var(--accent-strong);
-  color: var(--accent-on);
+  background: var(--ochre);
+  color: var(--on-ochre);
   transform: translateY(-1px);
 }
 
@@ -322,12 +343,12 @@ li { margin-bottom: 0.4rem; }
   transition: background 0.15s ease, color 0.15s ease;
 }
 
-.lang-switch a:hover { background: var(--bg-alt); }
+.lang-switch a:hover { background: var(--bg-alt); color: var(--ochre); }
 
 .lang-switch a.is-active {
-  background: var(--accent-green);
-  color: var(--accent-on);
-  border-color: var(--accent-green);
+  background: var(--green-fill);
+  color: var(--on-green);
+  border-color: var(--green-fill);
 }
 
 .doc-body table.doc-table {
@@ -364,10 +385,10 @@ li { margin-bottom: 0.4rem; }
 /* ---------- Footer ---------- */
 
 .site-footer {
-  border-top: 1px solid var(--border);
+  border-top: 1px solid rgba(0, 0, 0, 0.3);
   color: var(--text-muted);
   font-size: 0.88rem;
-  background: var(--bg-alt);
+  background: var(--bg-footer);
   margin-top: 3rem;
 }
 
@@ -391,8 +412,8 @@ li { margin-bottom: 0.4rem; }
 }
 
 .site-footer-repo { text-align: left; }
-.site-footer-repo a { color: var(--accent-green-strong); font-weight: 600; text-decoration: none; }
-.site-footer-repo a:hover { color: var(--accent); }
+.site-footer-repo a { color: var(--green); font-weight: 600; text-decoration: none; }
+.site-footer-repo a:hover { color: var(--ochre); }
 
 /* ---------- Downloads table ---------- */
 
@@ -400,33 +421,38 @@ li { margin-bottom: 0.4rem; }
   width: 100%;
   border-collapse: collapse;
   margin: 1.25rem 0 2.25rem;
-  border: 1px solid var(--border);
+  border: 1px solid var(--card-border);
   border-radius: 10px;
   overflow: hidden;
   box-shadow: var(--shadow);
+  background: var(--card-bg);
+  color: var(--card-text);
 }
 
 .download-table th, .download-table td {
   text-align: left;
   padding: 0.75rem 0.9rem;
-  border-bottom: 1px solid var(--border);
+  border-bottom: 1px solid var(--card-border);
   font-size: 0.94rem;
 }
 
 .download-table tr:last-child td { border-bottom: none; }
 
 .download-table th {
-  color: var(--text-muted);
+  color: var(--card-text-muted);
   font-weight: 700;
   font-size: 0.82rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  background: var(--bg-alt);
+  background: var(--card-border);
 }
 
 .download-table td a {
   font-weight: 600;
+  color: var(--green-fill);
 }
+
+.download-table td a:hover { color: var(--on-ochre); }
 
 @media (max-width: 640px) {
   .nav-toggle { display: flex; }
@@ -439,5 +465,5 @@ li { margin-bottom: 0.4rem; }
   }
   .site-nav.is-open { display: flex; }
   .site-footer-inner { flex-direction: column; gap: 0.5rem; }
-  h1 { font-size: 1.9rem; }
+  .site-main-inner > h1:first-child { font-size: 1.9rem; }
 }

@@ -5,12 +5,12 @@
       <span></span><span></span><span></span>
     </button>
     <nav id="site-nav" class="site-nav">
-      <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="{{ '/framework/' | relative_url }}">Framework</a>
-      <a href="{{ '/publications/' | relative_url }}">Publications</a>
-      <a href="{{ '/governance/' | relative_url }}">Governance</a>
-      <a href="{{ '/downloads/' | relative_url }}">Downloads</a>
-      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="is-active"{% endif %}>Home</a>
+      <a href="{{ '/framework/' | relative_url }}"{% if page.url == '/framework/' %} class="is-active"{% endif %}>Framework</a>
+      <a href="{{ '/publications/' | relative_url }}"{% if page.url contains '/publications/' %} class="is-active"{% endif %}>Publications</a>
+      <a href="{{ '/governance/' | relative_url }}"{% if page.url contains '/governance/' %} class="is-active"{% endif %}>Governance</a>
+      <a href="{{ '/downloads/' | relative_url }}"{% if page.url == '/downloads/' %} class="is-active"{% endif %}>Downloads</a>
+      <a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} class="is-active"{% endif %}>About</a>
     </nav>
   </div>
 </header>
