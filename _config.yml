@@ -1,0 +1,22 @@
+title: From Wildfires to Regeneration
+description: >-
+  Official public documentation website for the From Wildfires to Regeneration
+  Framework — a model for moving from wildfire crisis toward long-term
+  ecological and social regeneration.
+lang: en
+baseurl: ""
+repository: Gharioj/From-Wildfires-to-Regeneration
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+
+exclude:
+  - Governance
+  - README.md
+  - "*.gitattributes"
+  - "*.gitignore"
+

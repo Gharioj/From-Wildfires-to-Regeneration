@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.summary | default: site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  {% include nav.html %}
+  <main class="site-main">
+    <div class="site-main-inner">
+      {{ content }}
+    </div>
+  </main>
+  {% include footer.html %}
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var toggle = document.querySelector('.nav-toggle');
+      var nav = document.getElementById('site-nav');
+      if (toggle && nav) {
+        toggle.addEventListener('click', function () {
+          var open = nav.classList.toggle('is-open');
+          toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+        });
+      }
+    });
+  </script>
+</body>
+</html>
