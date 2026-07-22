@@ -1,3 +1,10 @@
 # One email address per line.
 # This file is generated from contacts.csv.
 # Do not edit manually.
+info@fondazionetommasodragotto.org
+antoniopresti@fondazionefiumaradarte.org
+info@donnafugata.it
+info@planeta.it
+info@fondazionesicilia.it
+info@roypaci.it
+info@mariobiondiofficial.it
