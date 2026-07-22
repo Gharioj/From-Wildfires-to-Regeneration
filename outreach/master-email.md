@@ -1,1 +1,32 @@
 # Master Outreach Email
+
+Oggetto: From Wildfires to Regeneration — un framework pronto, un territorio da attivare
+
+Buongiorno,
+
+gli incendi di questa estate hanno colpito ancora una volta il nostro territorio, e con essi è tornata l'urgenza di una domanda che da tempo ci poniamo: come trasformare la ricorrenza del disastro in un percorso di rigenerazione stabile e duratura?
+
+Le scrivo per condividere un progetto a cui stiamo lavorando da tempo: **From Wildfires to Regeneration**, un framework di governance ambientale pensato per rispondere concretamente a questa domanda, trasformando la gestione del rischio incendio in un'occasione di rigenerazione economica, sociale e ambientale del territorio. Il lavoro di progettazione è ormai quasi completo, e il progetto si avvicina alla fase di implementazione.
+
+Quello che rimane da fare non è teorico, ma operativo:
+
+- formalizzare il veicolo giuridico che darà al progetto una struttura stabile e riconoscibile;
+- ampliare la rete territoriale di Patron che ne sosterranno la crescita;
+- avviare l'implementazione immediata ovunque le condizioni lo consentano.
+
+Un punto ci sta particolarmente a cuore, ed è la ragione per cui le scrivo personalmente: questa iniziativa deve essere radicata nel territorio, di proprietà del territorio, e sviluppata dal territorio stesso. Non è un progetto calato dall'alto, né un modello da importare da altre esperienze: ha senso solo se le comunità, le realtà produttive e le istituzioni locali se ne appropriano, lo adattano alle proprie specificità e lo portano avanti con una propria autonomia decisionale.
+
+Disponiamo già di un framework di governance ambientale pronto per essere implementato. Non stiamo chiedendo di inventare una soluzione, ma di contribuire a renderla operativa.
+
+È per questo che le scrivo: per invitarla a partecipare a questo percorso, nella forma che riterrà più adatta. Che si tratti di diventare un **Patron**, di affiancarci come **Partner Strategico**, o semplicemente di segnalarci altre persone o realtà che potrebbero avere interesse a contribuire, ogni forma di coinvolgimento è per noi preziosa e ci aiuta a costruire una rete di sostegno realmente radicata nel territorio.
+
+Tutta la documentazione del progetto — dal framework di governance ai materiali pubblici — è consultabile qui:
+https://gharioj.github.io/From-Wildfires-to-Regeneration/
+
+Il repository GitHub del progetto rimane la fonte autorevole e aggiornata di tutta la documentazione tecnica e di governance.
+
+Se questo percorso le sembra di interesse, sarei lieto di trovare un momento per parlarne con lei direttamente, con calma e senza impegno, per capire insieme in che forma un suo eventuale coinvolgimento potrebbe inserirsi al meglio nel progetto.
+
+Resto a disposizione.
+
+Cordiali saluti,
