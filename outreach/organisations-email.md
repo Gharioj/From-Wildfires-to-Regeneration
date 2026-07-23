@@ -31,7 +31,7 @@ Resto a disposizione.
 
 Cordiali saluti,
 
-Ghari o'Janjin
+Ghari o'Janjim
 
 Independent Researcher
 Territorial Regeneration and Environmental Governance
