@@ -4,6 +4,10 @@ Oggetto: From Wildfires to Regeneration — una voce per il territorio siciliano
 
 Buongiorno,
 
+Lei sta ricevendo questa comunicazione perché è stato individuato come una persona o un'organizzazione che, per ruolo, esperienza o impegno verso il territorio siciliano, potrebbe contribuire alla costruzione di una rete di collaborazione dedicata alla prevenzione degli incendi e alla rigenerazione del territorio.
+
+Questa non è una comunicazione inviata indiscriminatamente, ma il risultato di un'attenta attività di ricerca e selezione dei destinatari.
+
 gli incendi di questa estate hanno colpito ancora una volta la Sicilia, la terra a cui la sua storia personale e professionale è profondamente legata.
 
 Le scrivo per condividere **From Wildfires to Regeneration**, un framework di governance ambientale ormai quasi pronto per l'implementazione, pensato per trasformare la ricorrenza del disastro in un percorso di rigenerazione stabile del territorio.

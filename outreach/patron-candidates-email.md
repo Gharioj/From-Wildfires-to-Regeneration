@@ -4,6 +4,10 @@ Oggetto: From Wildfires to Regeneration — un invito a essere Patron del territ
 
 Buongiorno,
 
+Lei sta ricevendo questa comunicazione perché è stato individuato come una persona o un'organizzazione che, per ruolo, esperienza o impegno verso il territorio siciliano, potrebbe contribuire alla costruzione di una rete di collaborazione dedicata alla prevenzione degli incendi e alla rigenerazione del territorio.
+
+Questa non è una comunicazione inviata indiscriminatamente, ma il risultato di un'attenta attività di ricerca e selezione dei destinatari.
+
 gli incendi di questa estate hanno colpito ancora una volta la Sicilia, e con essi è tornata l'urgenza di una domanda che da tempo ci poniamo: come trasformare la ricorrenza del disastro in un percorso di rigenerazione stabile?
 
 Le scrivo perché il suo impegno verso il territorio ci sembra naturalmente vicino a questo progetto. **From Wildfires to Regeneration** è un framework di governance ambientale ormai quasi pronto per l'implementazione, pensato per rispondere concretamente a questa urgenza.

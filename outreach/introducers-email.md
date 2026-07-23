@@ -4,6 +4,10 @@ Oggetto: From Wildfires to Regeneration — una richiesta di confronto tecnico
 
 Buongiorno,
 
+Lei sta ricevendo questa comunicazione perché è stato individuato come una persona o un'organizzazione che, per ruolo, esperienza o impegno verso il territorio siciliano, potrebbe contribuire alla costruzione di una rete di collaborazione dedicata alla prevenzione degli incendi e alla rigenerazione del territorio.
+
+Questa non è una comunicazione inviata indiscriminatamente, ma il risultato di un'attenta attività di ricerca e selezione dei destinatari.
+
 gli incendi di questa estate hanno colpito ancora una volta la Sicilia, riportando urgenza a temi che riguardano direttamente le competenze tecniche e scientifiche del vostro ambito.
 
 Le scrivo per presentarle **From Wildfires to Regeneration**, un framework di governance ambientale ormai quasi pronto per l'implementazione, pensato per rispondere concretamente a questa urgenza attraverso un percorso di rigenerazione del territorio.
