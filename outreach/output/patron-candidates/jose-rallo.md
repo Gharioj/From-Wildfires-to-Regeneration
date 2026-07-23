@@ -10,21 +10,28 @@ Questa non è una comunicazione inviata indiscriminatamente, ma il risultato di 
 
 Gli incendi di questa estate hanno colpito ancora una volta la Sicilia, e con essi è tornata l'urgenza di una domanda che da tempo ci poniamo: come trasformare la ricorrenza del disastro in un percorso di rigenerazione stabile?
 
-Le scrivo perché il suo impegno verso il territorio ci sembra naturalmente vicino a questo progetto. **From Wildfires to Regeneration** è un framework di governance ambientale ormai quasi pronto per l'implementazione, pensato per rispondere concretamente a questa urgenza.
+Le scrivo perché il suo impegno verso il territorio ci sembra naturalmente vicino a questo progetto. **From Wildfires to Regeneration** è un framework di governance ambientale sviluppato per l'implementazione territoriale, pensato per rispondere concretamente a questa urgenza.
 
 Quello che rimane da fare è operativo: formalizzare il veicolo giuridico, ampliare la rete territoriale di Patron, avviare l'implementazione immediata ovunque possibile. Un punto ci sta a cuore: questa iniziativa deve essere radicata nel territorio, di proprietà del territorio, sviluppata dal territorio stesso — non calata dall'alto.
 
 Disponiamo già di un framework di governance ambientale pronto per essere implementato. Non stiamo chiedendo di inventare una soluzione, ma di contribuire a renderla operativa.
 
-Le persone come lei, che hanno già scelto di investire nel futuro della Sicilia, sono la base naturale su cui costruire questa rete. Per questo le chiedo di considerare di diventare **Patron** del progetto, o semplicemente di segnalarci altre persone che potrebbero condividerne la visione.
+Le persone come lei, che hanno scelto di investire nel futuro della Sicilia, sono la base naturale su cui costruire questa rete. Per questo le chiedo di considerare di diventare **Patron** del progetto, o semplicemente di segnalarci altre persone che potrebbero condividerne la visione.
 
 Tutta la documentazione è consultabile qui:
 https://gharioj.github.io/From-Wildfires-to-Regeneration/
 
-Il repository GitHub rimane la fonte autorevole del progetto.
+Il repository GitHub costituisce la documentazione tecnica di riferimento del progetto.
 
 Se le interessa, sarei lieto di trovare un momento per parlarne con lei.
 
 Resto a disposizione.
 
 Cordiali saluti,
+
+Ghari o'Janjin
+
+Independent Researcher
+Territorial Regeneration and Environmental Governance
+
+https://gharioj.github.io/From-Wildfires-to-Regeneration/
