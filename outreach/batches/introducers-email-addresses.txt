@@ -1,0 +1,7 @@
+# One email address per line.
+# This file is generated from introducers.csv (subset of contacts.csv).
+# Do not edit manually.
+architetti@palermo.awn.it
+segreteria@ingpa.com
+info@agronomiforestalipalermo.it
+urp@unipa.it

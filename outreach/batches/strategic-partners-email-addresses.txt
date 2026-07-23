@@ -1,0 +1,8 @@
+# One email address per line.
+# This file is generated from strategic-partners.csv (subset of contacts.csv).
+# Do not edit manually.
+info@fondazionesicilia.it
+info@fondazioneconilsud.it
+regionale@legambientesicilia.it
+delegatosicilia@wwf.it
+segreteriafaisicilia@fondoambiente.it

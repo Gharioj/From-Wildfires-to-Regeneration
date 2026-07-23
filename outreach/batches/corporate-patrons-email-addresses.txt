@@ -1,0 +1,12 @@
+# One email address per line.
+# This file is generated from corporate-patrons.csv (subset of contacts.csv).
+# Do not edit manually.
+info@confindustriasicilia.it
+info@sicindustria.eu
+media@irritec.com
+info@ergonspa.it
+info@rapspa.it
+info@amapspa.it
+stsrl_ipa@legalmail.it
+raffineriadimilazzo@legalmail.it
+segreteria.palermo@gnv.it

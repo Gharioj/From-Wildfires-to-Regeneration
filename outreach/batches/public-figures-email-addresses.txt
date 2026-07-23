@@ -1,0 +1,7 @@
+# One email address per line.
+# This file is generated from public-figures.csv (subset of contacts.csv).
+# Do not edit manually.
+media@esa.int
+antos@giovannicaccamo.it
+info@ghostnotesrls.com
+locasciomanagement@gmail.com

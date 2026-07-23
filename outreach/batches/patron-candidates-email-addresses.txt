@@ -1,0 +1,9 @@
+# One email address per line.
+# This file is generated from patron-candidates.csv (subset of contacts.csv).
+# Do not edit manually.
+info@fondazionetommasodragotto.org
+antoniopresti@fondazionefiumaradarte.org
+info@donnafugata.it
+info@planeta.it
+info@roypaci.it
+info@mariobiondiofficial.it
