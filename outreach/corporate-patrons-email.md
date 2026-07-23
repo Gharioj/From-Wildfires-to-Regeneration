@@ -12,7 +12,7 @@ Questa non è una comunicazione inviata indiscriminatamente, ma il risultato di 
 
 Gli incendi di questa estate hanno colpito ancora una volta la Sicilia, ricordando quanto la tenuta del territorio riguardi direttamente anche le imprese che vi operano.
 
-Le scrivo per presentarle **From Wildfires to Regeneration**, un framework di governance ambientale ormai quasi pronto per l'implementazione, pensato per trasformare la gestione del rischio incendio in un percorso di rigenerazione stabile del territorio.
+Le scrivo per presentarle **From Wildfires to Regeneration**, un framework di governance ambientale sviluppato per l'implementazione territoriale, finalizzato a integrare prevenzione degli incendi, governance territoriale e interventi mirati a sostegno dei processi di rigenerazione del territorio.
 
 Il lavoro che resta da fare è concreto: formalizzare il veicolo giuridico, ampliare la rete territoriale di Patron, avviare l'implementazione immediata ovunque le condizioni lo consentano. Per noi è essenziale che l'iniziativa resti radicata nel territorio, di proprietà del territorio, sviluppata dal territorio stesso.
 
@@ -23,10 +23,17 @@ Crediamo che imprese come la vostra, per cui la stabilità del territorio è anc
 Tutta la documentazione è consultabile qui:
 https://gharioj.github.io/From-Wildfires-to-Regeneration/
 
-Il repository GitHub rimane la fonte autorevole del progetto.
+Il repository GitHub costituisce la documentazione tecnica di riferimento del progetto.
 
 Se questo percorso è di interesse, sarei lieto di trovare un momento per parlarne direttamente con voi.
 
 Resto a disposizione.
 
 Cordiali saluti,
+
+Ghari o'Janjin
+
+Independent Researcher
+Territorial Regeneration and Environmental Governance
+
+https://gharioj.github.io/From-Wildfires-to-Regeneration/

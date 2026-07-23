@@ -12,7 +12,7 @@ Questa non è una comunicazione inviata indiscriminatamente, ma il risultato di 
 
 Gli incendi di questa estate hanno colpito ancora una volta il nostro territorio, e con essi è tornata l'urgenza di una domanda che da tempo ci poniamo: come trasformare la ricorrenza del disastro in un percorso di rigenerazione stabile e duratura?
 
-Le scrivo per condividere un progetto a cui stiamo lavorando da tempo: **From Wildfires to Regeneration**, un framework di governance ambientale pensato per rispondere concretamente a questa domanda, trasformando la gestione del rischio incendio in un'occasione di rigenerazione economica, sociale e ambientale del territorio. Il lavoro di progettazione è ormai quasi completo, e il progetto si avvicina alla fase di implementazione.
+Le scrivo per condividere un progetto a cui stiamo lavorando da tempo: **From Wildfires to Regeneration**, un framework di governance ambientale sviluppato per l'implementazione territoriale, finalizzato a integrare prevenzione degli incendi, governance territoriale e interventi mirati a sostegno dei processi di rigenerazione del territorio.
 
 Quello che rimane da fare non è teorico, ma operativo:
 
@@ -29,10 +29,17 @@ La invito quindi a partecipare a questo percorso, nella forma che riterrà più 
 Tutta la documentazione del progetto — dal framework di governance ai materiali pubblici — è consultabile qui:
 https://gharioj.github.io/From-Wildfires-to-Regeneration/
 
-Il repository GitHub del progetto rimane la fonte autorevole e aggiornata di tutta la documentazione tecnica e di governance.
+Il repository GitHub costituisce la documentazione tecnica di riferimento del progetto.
 
 Se questo percorso le sembra di interesse, sarei lieto di trovare un momento per parlarne con lei direttamente, con calma e senza impegno, per capire insieme in che forma un suo eventuale coinvolgimento potrebbe inserirsi al meglio nel progetto.
 
 Resto a disposizione.
 
 Cordiali saluti,
+
+Ghari o'Janjin
+
+Independent Researcher
+Territorial Regeneration and Environmental Governance
+
+https://gharioj.github.io/From-Wildfires-to-Regeneration/
