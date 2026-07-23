@@ -1,16 +1,26 @@
 # Outreach Workspace
 
-This directory is the authoritative outreach workspace for the From-Wildfires-to-Regeneration project. It is the single place where contact management and outreach communications for potential Patrons, Strategic Partners, and Supporters are created, maintained, and tracked.
+This directory is the authoritative outreach workspace for the From-Wildfires-to-Regeneration project's Patron, Strategic Partner, Introducer, Public Figure, and Organisation outreach. It is organised by territorial campaign, one subdirectory per territory.
 
-## Files
+## Territorial campaigns
 
-- **contacts.csv** — The single source of truth for all outreach contacts. Every Patron, Strategic Partner, and Supporter contact must be recorded here.
-- **email-addresses.txt** — Generated from `contacts.csv`. Do not edit manually.
-- **master-email.md** — Contains the current outreach email used for contacting Patrons, Strategic Partners, and Supporters.
-- **sent-log.csv** — Records outreach history: what was sent, to whom, when, and its status.
+- **[Sicilia/](Sicilia/)** — the original campaign, covering Sicily.
+- **[Salento/](Salento/)** — the Salento (Puglia) campaign.
+
+Each territorial campaign directory is self-contained and follows the same internal structure and methodology:
+
+- **contacts.csv** — the single source of truth for that territory's outreach contacts.
+- **email-addresses.txt** — generated from `contacts.csv`. Do not edit manually.
+- **master-email.md** — the master outreach email template for that territory.
+- **patron-candidates-email.md**, **corporate-patrons-email.md**, **strategic-partners-email.md**, **introducers-email.md**, **public-figures-email.md**, **organisations-email.md** — audience-tailored email templates derived from `master-email.md`.
+- **batches/** — per-audience CSV extracts and matching email-address lists, generated from `contacts.csv`.
+- **output/** — personalised, merge-resolved emails generated for every contact, organised by audience batch. Ready for review before sending.
+- **sent-log.csv** — records outreach history for that territory.
+- **README.md** — territory-specific documentation.
 
 ## Rules
 
-- All future contacts are added here only.
-- No duplicate contacts.
+- Contacts belong in their territory's `contacts.csv` only — no cross-territory mixing.
+- No duplicate contacts within a territory.
 - No manual administration where automation is possible.
+- New territorial campaigns should follow the same structure and methodology as Sicilia and Salento.
