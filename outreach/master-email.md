@@ -2,13 +2,15 @@
 
 Oggetto: From Wildfires to Regeneration — un framework pronto, un territorio da attivare
 
-Buongiorno,
+{{Salutation}}
+
+<!-- Regola di selezione del saluto: "Gentile [Nome]," se il nome del destinatario è noto; "Gentile Dott./Avv./Prof. [Cognome]," se è noto il titolo professionale; altrimenti "Alla cortese attenzione della Direzione," o "Alla cortese attenzione del Presidente," a seconda dei casi. -->
 
 Lei sta ricevendo questa comunicazione perché è stato individuato come una persona o un'organizzazione che, per ruolo, esperienza o impegno verso il territorio siciliano, potrebbe contribuire alla costruzione di una rete di collaborazione dedicata alla prevenzione degli incendi e alla rigenerazione del territorio.
 
 Questa non è una comunicazione inviata indiscriminatamente, ma il risultato di un'attenta attività di ricerca e selezione dei destinatari.
 
-gli incendi di questa estate hanno colpito ancora una volta il nostro territorio, e con essi è tornata l'urgenza di una domanda che da tempo ci poniamo: come trasformare la ricorrenza del disastro in un percorso di rigenerazione stabile e duratura?
+Gli incendi di questa estate hanno colpito ancora una volta il nostro territorio, e con essi è tornata l'urgenza di una domanda che da tempo ci poniamo: come trasformare la ricorrenza del disastro in un percorso di rigenerazione stabile e duratura?
 
 Le scrivo per condividere un progetto a cui stiamo lavorando da tempo: **From Wildfires to Regeneration**, un framework di governance ambientale pensato per rispondere concretamente a questa domanda, trasformando la gestione del rischio incendio in un'occasione di rigenerazione economica, sociale e ambientale del territorio. Il lavoro di progettazione è ormai quasi completo, e il progetto si avvicina alla fase di implementazione.
 
@@ -18,11 +20,11 @@ Quello che rimane da fare non è teorico, ma operativo:
 - ampliare la rete territoriale di Patron che ne sosterranno la crescita;
 - avviare l'implementazione immediata ovunque le condizioni lo consentano.
 
-Un punto ci sta particolarmente a cuore, ed è la ragione per cui le scrivo personalmente: questa iniziativa deve essere radicata nel territorio, di proprietà del territorio, e sviluppata dal territorio stesso. Non è un progetto calato dall'alto, né un modello da importare da altre esperienze: ha senso solo se le comunità, le realtà produttive e le istituzioni locali se ne appropriano, lo adattano alle proprie specificità e lo portano avanti con una propria autonomia decisionale.
+Un punto ci sta particolarmente a cuore: questa iniziativa deve essere radicata nel territorio, di proprietà del territorio, e sviluppata dal territorio stesso. Non è un progetto calato dall'alto, né un modello da importare da altre esperienze: ha senso solo se le comunità, le realtà produttive e le istituzioni locali se ne appropriano, lo adattano alle proprie specificità e lo portano avanti con una propria autonomia decisionale.
 
 Disponiamo già di un framework di governance ambientale pronto per essere implementato. Non stiamo chiedendo di inventare una soluzione, ma di contribuire a renderla operativa.
 
-È per questo che le scrivo: per invitarla a partecipare a questo percorso, nella forma che riterrà più adatta. Che si tratti di diventare un **Patron**, di affiancarci come **Partner Strategico**, o semplicemente di segnalarci altre persone o realtà che potrebbero avere interesse a contribuire, ogni forma di coinvolgimento è per noi preziosa e ci aiuta a costruire una rete di sostegno realmente radicata nel territorio.
+La invito quindi a partecipare a questo percorso, nella forma che riterrà più adatta. Che si tratti di diventare un **Patron**, di affiancarci come **Partner Strategico**, o semplicemente di segnalarci altre persone o realtà che potrebbero avere interesse a contribuire, ogni forma di coinvolgimento è per noi preziosa e ci aiuta a costruire una rete di sostegno realmente radicata nel territorio.
 
 Tutta la documentazione del progetto — dal framework di governance ai materiali pubblici — è consultabile qui:
 https://gharioj.github.io/From-Wildfires-to-Regeneration/

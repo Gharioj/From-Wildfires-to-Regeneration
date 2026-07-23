@@ -2,13 +2,15 @@
 
 Oggetto: From Wildfires to Regeneration — un invito a partecipare alla rigenerazione del territorio
 
-Buongiorno,
+{{Salutation}}
+
+<!-- Regola di selezione del saluto: "Gentile [Nome]," se il nome del destinatario è noto; "Gentile Dott./Avv./Prof. [Cognome]," se è noto il titolo professionale; altrimenti "Alla cortese attenzione della Direzione," o "Alla cortese attenzione del Presidente," a seconda dei casi. -->
 
 Lei sta ricevendo questa comunicazione perché è stato individuato come una persona o un'organizzazione che, per ruolo, esperienza o impegno verso il territorio siciliano, potrebbe contribuire alla costruzione di una rete di collaborazione dedicata alla prevenzione degli incendi e alla rigenerazione del territorio.
 
 Questa non è una comunicazione inviata indiscriminatamente, ma il risultato di un'attenta attività di ricerca e selezione dei destinatari.
 
-gli incendi di questa estate hanno colpito ancora una volta la Sicilia, riportando urgenza a un tema che riguarda da vicino anche la vostra organizzazione e il territorio in cui operate.
+Gli incendi di questa estate hanno colpito ancora una volta la Sicilia, riportando urgenza a un tema che riguarda da vicino anche la vostra organizzazione e il territorio in cui operate.
 
 Le scrivo per presentarle **From Wildfires to Regeneration**, un framework di governance ambientale ormai quasi pronto per l'implementazione, pensato per trasformare la gestione del rischio incendio in un percorso di rigenerazione ambientale, sociale ed economica.
 
@@ -16,7 +18,7 @@ Il lavoro che resta da fare è operativo: formalizzare il veicolo giuridico, amp
 
 Disponiamo già di un framework di governance ambientale pronto per essere implementato. Non stiamo chiedendo di inventare una soluzione, ma di contribuire a renderla operativa.
 
-Le scrivo per invitarla a partecipare, nella forma che riterrà più adatta: come **Patron**, come **Partner Strategico**, oppure semplicemente segnalandoci altre realtà del vostro settore che potrebbero avere interesse a contribuire.
+La invito quindi a partecipare, nella forma che riterrà più adatta: come **Patron**, come **Partner Strategico**, oppure segnalandoci altre realtà del vostro settore che potrebbero avere interesse a contribuire.
 
 Tutta la documentazione è consultabile qui:
 https://gharioj.github.io/From-Wildfires-to-Regeneration/

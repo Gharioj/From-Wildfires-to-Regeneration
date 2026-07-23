@@ -2,13 +2,15 @@
 
 Oggetto: From Wildfires to Regeneration — una richiesta di confronto tecnico
 
-Buongiorno,
+{{Salutation}}
+
+<!-- Regola di selezione del saluto: "Gentile [Nome]," se il nome del destinatario è noto; "Gentile Dott./Avv./Prof. [Cognome]," se è noto il titolo professionale; altrimenti "Alla cortese attenzione della Direzione," o "Alla cortese attenzione del Presidente," a seconda dei casi. -->
 
 Lei sta ricevendo questa comunicazione perché è stato individuato come una persona o un'organizzazione che, per ruolo, esperienza o impegno verso il territorio siciliano, potrebbe contribuire alla costruzione di una rete di collaborazione dedicata alla prevenzione degli incendi e alla rigenerazione del territorio.
 
 Questa non è una comunicazione inviata indiscriminatamente, ma il risultato di un'attenta attività di ricerca e selezione dei destinatari.
 
-gli incendi di questa estate hanno colpito ancora una volta la Sicilia, riportando urgenza a temi che riguardano direttamente le competenze tecniche e scientifiche del vostro ambito.
+Gli incendi di questa estate hanno colpito ancora una volta la Sicilia, riportando urgenza a temi che riguardano direttamente le competenze tecniche e scientifiche del vostro ambito.
 
 Le scrivo per presentarle **From Wildfires to Regeneration**, un framework di governance ambientale ormai quasi pronto per l'implementazione, pensato per rispondere concretamente a questa urgenza attraverso un percorso di rigenerazione del territorio.
 
@@ -16,7 +18,7 @@ Il lavoro che resta da fare è operativo: formalizzare il veicolo giuridico, amp
 
 Disponiamo già di un framework di governance ambientale pronto per essere implementato. Non stiamo chiedendo di inventare una soluzione, ma di contribuire a renderla operativa.
 
-Per questo le scrivo: non le chiediamo un impegno economico, ma la possibilità di un confronto tecnico, e di segnalarci — se lo ritiene utile — persone o realtà del vostro network che potrebbero contribuire come **Patron**, **Partner Strategico**, o semplicemente con competenze specifiche.
+Non le chiediamo un impegno economico, ma la possibilità di un confronto tecnico, e di segnalarci — se lo ritiene utile — persone o realtà del vostro network che potrebbero contribuire come **Patron**, **Partner Strategico**, o semplicemente con competenze specifiche.
 
 Tutta la documentazione è consultabile qui:
 https://gharioj.github.io/From-Wildfires-to-Regeneration/
