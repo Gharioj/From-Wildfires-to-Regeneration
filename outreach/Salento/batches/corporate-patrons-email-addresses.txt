@@ -1,0 +1,5 @@
+# One email address per line.
+# This file is generated from corporate-patrons.csv (subset of contacts.csv).
+# Do not edit manually.
+info@fersalento.com
+info@cantineduepalme.it

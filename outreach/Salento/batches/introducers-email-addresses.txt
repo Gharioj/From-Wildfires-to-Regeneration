@@ -1,0 +1,7 @@
+# One email address per line.
+# This file is generated from introducers.csv (subset of contacts.csv).
+# Do not edit manually.
+architetti@lecce.archiworld.it
+info@ordineingegnerilecce.it
+ordinelecce@conaf.it
+urp@unisalento.it

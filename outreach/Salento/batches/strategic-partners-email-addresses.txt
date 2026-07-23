@@ -1,0 +1,8 @@
+# One email address per line.
+# This file is generated from strategic-partners.csv (subset of contacts.csv).
+# Do not edit manually.
+fondazionetdo@gmail.com
+fondazionesalento@gmail.com
+lecce@wwf.it
+legambiente.lecce@tiscali.it
+info@parcootrantoleuca.it

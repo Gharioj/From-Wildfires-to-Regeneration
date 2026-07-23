@@ -1,0 +1,5 @@
+# One email address per line.
+# This file is generated from patron-candidates.csv (subset of contacts.csv).
+# Do not edit manually.
+info@leonedecastris.com
+cantele@cantele.it

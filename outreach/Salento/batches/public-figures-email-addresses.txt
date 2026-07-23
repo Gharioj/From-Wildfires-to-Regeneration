@@ -1,0 +1,5 @@
+# One email address per line.
+# This file is generated from public-figures.csv (subset of contacts.csv).
+# Do not edit manually.
+info@sudsoundsystem.it
+groups@tenutealbano.com
