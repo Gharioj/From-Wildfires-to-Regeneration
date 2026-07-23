@@ -40,12 +40,16 @@ One heading below ("Major Companies") currently has no matching contacts: `conta
 - Alberto Paglialunga — Deghi S.p.A. — Novoli / San Cesario di Lecce (LE) — Public Figure Patron
 - Alessandra Amoroso — Independent (recording artist; Sony Music Italy/Epic) — Galatina (born and raised) — Public Figure Patron
 - Antonio Conte — Independent (football manager) — Lecce (born and raised) — Public Figure Patron
+- Après La Classe — Molly Arts Live — Aradeo (LE) — Public Figure Patron
 - Boomdabash — Boomdabash — Mesagne (BR) — Public Figure Patron
+- Dolcenera — K6DN Management (Apollo Records) — Galatina / Scorrano (LE) — Public Figure Patron
 - Edoardo Winspeare — Independent filmmaker — Tricase (LE) — Public Figure Patron
 - Emma Marrone — Independent artist — Aradeo (LE) — Public Figure Patron
 - Ennio Capasa — Costume National — Lecce (born) — Public Figure Patron
+- Flavia Pennetta — Independent (former tennis player) — Brindisi (BR) - Salento area — Public Figure Patron
 - Floriano Pellegrino e Isabella Potì — Pellegrino Brothers — Lecce / Scorrano — Public Figure Patron
 - Francis Ford Coppola — Independent (director/producer; American Zoetrope) — Ugento (LE) — Public Figure Patron
+- Graziano Pellè — U.S. Lecce — San Cesario di Lecce / Monteroni di Lecce (LE) — Public Figure Patron
 - Helen Mirren & Taylor Hackford — Independent (actress and director) — Tiggiano (LE) — Public Figure Patron
 - Meryl Streep — Independent (actress) — Tricase (Mito area) — Public Figure Patron
 - Negramaro (Giuliano Sangiorgi) — Negramaro — Copertino (LE) — Public Figure Patron
@@ -58,21 +62,41 @@ One heading below ("Major Companies") currently has no matching contacts: `conta
 - Augustus Resort — Augustus Resort — Santa Cesarea Terme — Luxury Hospitality
 - Baglioni Masseria Muzza Resort & Spa — Baglioni Hotels — Otranto — Luxury Hospitality
 - Biancodonda — Biancodonda Greenblu Hotel & Spa — Gallipoli — Luxury Hospitality
+- Borgo Mulino a Vento — D'Alba Sas di Carluccio Maria — Uggiano La Chiesa (LE) — Luxury Hospitality
+- CDSHotels - Corte di Nettuno — CDSHotels S.p.A. — Otranto — Luxury Hospitality
+- Caroli Hotels — Caroli Group — Gallipoli / Santa Maria di Leuca (LE) — Luxury Hospitality
+- Castello di Ugento — Castello di Ugento — Ugento (LE) — Luxury Hospitality
 - Est Hotel — Est Hotel — Santa Cesarea Terme — Luxury Hospitality
+- Furnirussi Tenuta — Furnirussi Tenuta — Serrano di Carpignano Salentino (LE) — Luxury Hospitality
 - GH Gallipoli Resort — Garibaldi Hotels — Gallipoli — Luxury Hospitality
 - Grand Hotel Riviera — CDSHotels — Nardò (Santa Maria al Bagno) — Luxury Hospitality
 - Hotel Palazzo Papaleo — Hotel Palazzo Papaleo — Otranto — Luxury Hospitality
 - Hotel Palazzo del Corso — Palazzo del Corso — Gallipoli — Luxury Hospitality
 - La Fiermontina Luxury Home — La Fiermontina Collection — Lecce (historic centre) — Luxury Hospitality
 - Marenea Suite Hotel — CDSHotels — Castro (LE) — Luxury Hospitality
+- Masseria Bandino & Spa — Masseria Bandino & Spa — Otranto — Luxury Hospitality
+- Masseria Corsano — Masseria Corsano — Nardò (LE) — Luxury Hospitality
+- Masseria Li Foggi — Masseria Li Foggi Resort — Gallipoli (LE) — Luxury Hospitality
+- Masseria Li Sauli — Antica Masseria Li Sauli — Gallipoli (LE) — Luxury Hospitality
 - Masseria Muntibianchi — Masseria Muntibianchi — Otranto — Luxury Hospitality
+- Masseria Panareo — Masseria Panareo — Otranto — Luxury Hospitality
 - Masseria Prosperi — Masseria Prosperi — Otranto — Luxury Hospitality
 - Masseria Torre Maizza — Masseria Torre Maizza (Rocco Forte Hotels) — Savelletri di Fasano (Brindisi - Ostuni area) — Luxury Hospitality
+- Masseria Trapana — Masseria Trapana — Lecce (rural outskirts) — Luxury Hospitality
 - Masseria Uccio — Masseria Uccio — Tricase (LE) — Luxury Hospitality
+- Masseria dei Monaci — Masseria dei Monaci (BRRS Vacanze Srl) — Otranto — Luxury Hospitality
+- Nohasi Palace Hotel & Spa — Nohasi Palace — Noha Galatina (LE) — Luxury Hospitality
+- Palazzo Ducale Venturi — Palazzo Ducale Venturi — Minervino di Lecce (LE) — Luxury Hospitality
+- Palazzo Sant'Anna Lecce — Palazzo Sant'Anna Lecce — Lecce (historic centre) — Luxury Hospitality
+- Palazzo Zimara Boutique Hotel — Palazzo Zimara Boutique Hotel - The D'Angelo Family Collection — Lecce (historic centre) — Luxury Hospitality
 - Patria Palace Hotel — Patria Palace Hotel Lecce — Lecce (historic centre) — Luxury Hospitality
 - Relais Masseria Le Cesine — CDSHotels — Vernole (LE) — Luxury Hospitality
 - Relais Valle dell'Idro — Relais Valle dell'Idro — Otranto — Luxury Hospitality
 - Risorgimento Resort — Risorgimento Resort Lecce (Vestas Hotels & Resorts) — Lecce (historic centre) — Luxury Hospitality
+- Tenuta Centoporte — Tenuta Centoporte — Giurdignano (LE) — Luxury Hospitality
+- Tenuta Negroamaro — Hotel Tenuta Negroamaro — Sannicola (LE) — Luxury Hospitality
+- Torre Assunta Hotel — Hotel Torre Assunta — Gallipoli (LE) — Luxury Hospitality
+- Vivosa Apulia Resort — Vivosa Apulia Resort — Marina di Ugento (LE) — Luxury Hospitality
 
 # Masserie
 
@@ -93,6 +117,8 @@ One heading below ("Major Companies") currently has no matching contacts: `conta
 - Famiglia Serio — Cantine Serio (Azienda Vitivinicola Giuseppe Serio) — San Donaci (BR) — Wine Producer
 - Famiglia Zonin — Masseria Altemura (Gruppo Zonin1821) — Torre Santa Susanna / Oria (BR) — Wine Producer
 - Masseria Li Veli — Masseria Li Veli (Falvo family) — Cellino San Marco (BR) — Wine Producer
+- Mocavero — Azienda Vinicola Mocavero — Arnesano (LE) — Wine Producer
+- Paolo Leo — Cantine Paololeo Srl — San Donaci (BR) - Salento wine district — Wine Producer
 - Schola Sarmenti — Schola Sarmenti — Nardò (LE) — Wine Producer
 - Tenute Rubino — Azienda Agricola Dott. Luigi Rubino — Brindisi (BR) — Wine Producer
 - Vallone — Agricole Vallone — Lecce — Wine Producer
